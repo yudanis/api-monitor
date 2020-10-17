@@ -1,0 +1,22 @@
+{
+  "name": "api-monitor",
+  "version": "1.0.0",
+  "description": "This is a node js app that will monitor if there is some changes in api result and automatically send notification to telegram.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yudanis/api-monitor.git"
+  },
+  "author": "yudanis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yudanis/api-monitor/issues"
+  },
+  "homepage": "https://github.com/yudanis/api-monitor#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
